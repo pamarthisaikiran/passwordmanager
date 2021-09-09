@@ -1,0 +1,80 @@
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 37.5px;
+  margin-top: 18px;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+.list-item {
+  border: 1px solid #ffffff;
+  width: 250px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+.list-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.delete-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 160px;
+}
+.delete-logo {
+  width: 30px;
+  height: 30px;
+}
+.list-para {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: white;
+}
+.delete-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.width {
+  width: 100%;
+}

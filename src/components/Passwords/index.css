@@ -1,0 +1,120 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  background-size: cover;
+  padding: 50px;
+}
+.logo-img {
+  width: 12.5%;
+}
+.card1 {
+  background-color: #5763a5;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.input {
+  background-color: #f8fafc;
+  height: 30px;
+  outline: none;
+  border-width: 0px;
+  width: 100%;
+}
+.btn {
+  width: 30px;
+  height: 30px;
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-width: 0px;
+}
+.btn-img {
+  width: 20px;
+  height: 20px;
+}
+.input-img {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+.box-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+}
+.box {
+  background-color: #454f84;
+  padding: 20px;
+
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 50%;
+}
+.img-card {
+  width: 30%;
+}
+.bottom {
+  background-color: #5763a5;
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 15px;
+  height: 700px;
+}
+.card2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bottom-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+}
+.hr-check {
+  display: flex;
+  justify-content: flex-end;
+}
+.add-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 2px;
+}
+.btn4 {
+  display: flex;
+  justify-content: flex-end;
+}
+.ullist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.no-pass {
+  width: 50%;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.count {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.last {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 10px;
+}
