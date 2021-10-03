@@ -29,12 +29,7 @@ const PasswordItem = props => {
           <div>
             <p className="list-para">{website}</p>
             <p className="list-para">{username}</p>
-            <p className="list-para">{password}</p>
-            <img
-              className="width"
-              alt="stars"
-              src="https://assets.ccbp.in/frontend/react-js/password-manager-stars-img.png"
-            />
+            {passwordShow}
           </div>
           <button
             testid="delete"
